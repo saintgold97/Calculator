@@ -1,0 +1,5 @@
+C:\Users\rober\Desktop\C#\mia-calcolatrice\Calcolatrice-WinFormsApp.exe
+C:\Users\rober\Desktop\C#\mia-calcolatrice\Calcolatrice-WinFormsApp.dll
+C:\Users\rober\Desktop\C#\mia-calcolatrice\Calcolatrice-WinFormsApp.deps.json
+C:\Users\rober\Desktop\C#\mia-calcolatrice\Calcolatrice-WinFormsApp.runtimeconfig.json
+C:\Users\rober\Desktop\C#\mia-calcolatrice\Calcolatrice-WinFormsApp.pdb
